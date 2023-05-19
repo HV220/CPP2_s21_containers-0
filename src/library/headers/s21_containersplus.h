@@ -1,0 +1,7 @@
+#ifndef SRC_LIBRARY_HEADERS_S21_CONTAINERSPLUS_H_
+#define SRC_LIBRARY_HEADERS_S21_CONTAINERSPLUS_H_
+
+#include "part-2/s21_array.h"
+#include "part-2/s21_multiset.h"
+
+#endif //  SRC_LIBRARY_HEADERS_S21_CONTAINERSPLUS_H_
